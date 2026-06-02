@@ -1,0 +1,22 @@
+{
+  "nickname": "Bob",
+  "char_id": 99,
+  "first_name": "Bob",
+  "last_name": "",
+  "guild_rank": 0,
+  "guild_rank_name": "",
+  "level": 20,
+  "faction": "Omni",
+  "profession": "Soldier",
+  "profession_title": "Mercenary",
+  "gender": "Male",
+  "breed": "Solitus",
+  "defender_rank": 0,
+  "defender_rank_name": "None",
+  "guild_id": 0,
+  "guild_name": "",
+  "server": 5,
+  "last_checked": 1705321800,
+  "last_changed": 1705321800,
+  "deleted": false
+}

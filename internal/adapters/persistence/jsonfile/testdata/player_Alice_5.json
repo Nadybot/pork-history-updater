@@ -1,0 +1,22 @@
+{
+  "nickname": "Alice",
+  "char_id": 42,
+  "first_name": "Alice",
+  "last_name": "",
+  "guild_rank": 0,
+  "guild_rank_name": "",
+  "level": 10,
+  "faction": "Clan",
+  "profession": "Doctor",
+  "profession_title": "Nurse",
+  "gender": "Female",
+  "breed": "Opifex",
+  "defender_rank": 0,
+  "defender_rank_name": "None",
+  "guild_id": 0,
+  "guild_name": "",
+  "server": 5,
+  "last_checked": 1705321800,
+  "last_changed": 1705321800,
+  "deleted": false
+}
